@@ -17,7 +17,7 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #05386B;
   color: #ffffff;
   height: 80px;
   padding: 10px;
@@ -100,7 +100,7 @@ input {
 }
 
 .wrapper {
-  background-color: #f2f8ff;
+  background-color: #5CDB95;
   padding-bottom: 100px;
 }
 
@@ -108,6 +108,7 @@ input {
 .m-auto {
   margin: 0 auto;
   width: 500px;
+  background-color: #EDF5E1;
 }
 
 form .workout-type,
@@ -371,10 +372,6 @@ form > button {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-
-/* .workout .card {
-  width: 350px;
-} */
 
 .prev-workout button {
   margin: 10px;
